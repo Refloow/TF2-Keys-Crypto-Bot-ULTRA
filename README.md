@@ -65,3 +65,13 @@ This software is built on a unique model designed for transparency, security, an
 * **✅ Full Transparency (MIT License):** The complete source code is available for your review after acquiring the software. In the world of cryptocurrency, you should never run code you can't inspect. We provide the source so you can be 100% confident there are no backdoors or malicious features.
 * **✅ Your Investment is Protected (Maintenance):** You don’t get just software; it's also a service. You receive **free, maintenance updates**. As Steam and Binance APIs change, updates to the bot are made to ensure it continues running and operating. You also get Support for any questions and initial setup via chat or video call.
 * **✅ A Fair Agreement:** Our maintenance agreement is simple: as long as you use the software for its intended purpose to launch a service, have it active, and do not modify the core code, your free maintenance is provided. If you modify the codebase largely, offer it for sale, or distribute it, it voids the additional service maintenance agreement, as patches will no longer be compatible or supplied. This protects you from breaking your bot and protects us by ensuring a stable codebase to support.
+
+For pricing, inquiries, and to start your own TF2 Key to Crypto exchange business, please contact me.
+
+**Contact:**
+<br> - Discord: @refloow userid: 749452967207501836
+<br> - Steam: https://steamcommunity.com/id/MajokingGames steamid64: 76561198353038739
+<br> - Email: refloowcontact@gmail.com
+<br>- Discord server: https://discord.gg/hcafD8Be7X
+
+*Disclaimer: Not all features and security capabilities are publicly disclosed.*

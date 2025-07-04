@@ -4,6 +4,18 @@ The definitive TF2 Keys to Crypto cashout & exchange bot, from the developer beh
 
 Self-contained **Admin Panel Application** with everything you need to manage, build, and launch your service. Built on a commercially successful foundation that has **processed over $700,000 in transactions safely for vendors**, this version is designed for global reach with support for **20+ languages and 400+ cryptocurrencies** and an enhanced focus on admin control and ease of use. Integrated safely with Binance for seamless crypto transactions.
 
+### This program is not available for FREE. There is no free version available.
+
+For pricing, inquiries, and to start your own TF2 Key to Crypto exchange business, please contact me.
+
+**Contact:**
+<br> - Discord: @refloow userid: 749452967207501836
+<br> - Steam: https://steamcommunity.com/id/MajokingGames steamid64: 76561198353038739
+<br> - Email: refloowcontact@gmail.com
+<br>- Discord server: https://discord.gg/hcafD8Be7X
+
+*Disclaimer: Not all features and security capabilities are publicly disclosed.*
+
 ## ✨ The All-in-One Admin Panel Application ✨
 
 The core of `Ultra` is a comprehensive web-based application that gives you full control over your entire operation.
@@ -45,18 +57,6 @@ The core of `Ultra` is a comprehensive web-based application that gives you full
 `** will add screenshots of commands**`
 
 ---
-
-### This program is not available for FREE. There is no free version available.
-
-For pricing, inquiries, and to start your own TF2 Key to Crypto exchange business, please contact me.
-
-**Contact:**
-<br> - Discord: @refloow userid: 749452967207501836
-<br> - Steam: https://steamcommunity.com/id/MajokingGames steamid64: 76561198353038739
-<br> - Email: refloowcontact@gmail.com
-<br>- Discord server: https://discord.gg/hcafD8Be7X
-
-*Disclaimer: Not all features and security capabilities are publicly disclosed.*
 
 # TERMS
 

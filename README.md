@@ -51,10 +51,10 @@ The core of `Ultra` is a comprehensive web-based application that gives you full
 For pricing, inquiries, and to start your own TF2 Key to Crypto exchange business, please contact me.
 
 **Contact:**
-<br>Discord: `@refloow` (userid: `749452967207501836`)
-<br>Steam: `https://steamcommunity.com/id/MajokingGames` (steamid64: `76561198353038739`)
-<br>Email: `refloowcontact@gmail.com`
-<br>Discord Server: `https://discord.gg/hcafD8Be7X`
+<br> - Discord: @refloow userid: 749452967207501836
+<br> - Steam: https://steamcommunity.com/id/MajokingGames steamid64: 76561198353038739
+<br> - Email: refloowcontact@gmail.com
+<br>- Discord server: https://discord.gg/hcafD8Be7X
 
 *Disclaimer: Not all features and security capabilities are publicly disclosed.*
 

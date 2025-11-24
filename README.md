@@ -2,7 +2,7 @@
 
 The definitive TF2 Keys to Crypto cashout & exchange bot solution, from the developer behind some of the most successful crypto bots in the market.
 
-Self-contained **Admin Panel Application** with everything you need to manage, build, and launch your service. Built on a commercially successful foundation that has **processed over $1,500,000 in transactions safely for vendors**, this version is designed for global reach with support for **5+ languages and 400+ cryptocurrencies** and an enhanced focus on admin control and ease of use. Integrated safely with Binance for seamless crypto transactions.
+Self-contained **Admin Panel Application** with everything you need to manage, build, and launch your service. Built on a commercially successful foundation that has **processed over $2,200,000 in transactions safely for vendors**, this version is designed for global reach with support for **5+ languages and 400+ cryptocurrencies** and an enhanced focus on admin control and ease of use. Integrated safely with Binance for seamless crypto transactions.
 
 **Contact:**
 <br> - Discord: @refloow userid: 749452967207501836
